@@ -14,8 +14,6 @@ For Docker setup update `.env.example`
 DB_CONNECTION=pgsql
 DB_HOST=db
 DB_DATABASE=postgres
-DB_USERNAME=postgres
-DB_PASSWORD=password
 ```
 
 ````txt
