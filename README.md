@@ -7,6 +7,17 @@ Laravel-проект для управления библиотекой книг
 * Laravel >= 11
 
 ## Setup
+
+For Docker setup update `.env.example`
+
+```txt
+DB_CONNECTION=pgsql
+DB_HOST=db
+DB_DATABASE=postgres
+DB_USERNAME=postgres
+DB_PASSWORD=password
+```
+
 ````txt
 cd <папка_проекта>
 make setup
